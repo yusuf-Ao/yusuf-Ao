@@ -16,7 +16,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="ay.codes | Instagram" width="22px" src="https://raw.githubusercontent.com/Shubham0812/SearchX/master/insta.png" />][instagram]
+[<img align="left" alt="ay.codes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
 
 <br />
