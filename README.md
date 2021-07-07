@@ -5,7 +5,7 @@
 
 
 - 🎓 A student... I learn everyday ✌
-- 📱 Android Developer
+- 📱 Android/Web Developer
 - 💻 Software Engineer|Freelancer
 - ♣ Digital Creator 
 - 🔥 I admire UI designs with elegant aesthetic
