@@ -5,12 +5,10 @@
 
 
 - 🎓 A student... I learn everyday ✌
-- 📱 Android/Web Developer
+- 📱 Backend Developer
 - 💻 Software Engineer|Freelancer
 - ♣ Digital Creator 
 - 🔥 I admire UI designs with elegant aesthetic
-- 👯 I share android tips and hacks on my instagram page
-- 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I code stuffs😎
 
 ---
