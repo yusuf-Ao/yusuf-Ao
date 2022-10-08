@@ -1,15 +1,13 @@
 ### Hi there👋
 
 
-## I'm so much in 💙 with the Android platform 
+## I'm so much in 💙 wih backend development
 
 
-- 🎓 A student... I learn everyday ✌
-- 📱 Backend Developer
-- 💻 Software Engineer|Freelancer
-- ♣ Digital Creator 
+- 💻 Software Engineer
+- 📱 Fullstack Developer
 - 🔥 I admire UI designs with elegant aesthetic
-- ⚡ Fun fact: I code stuffs😎
+- ⚡ Fun fact: I code stuffs behind the scenes😎
 
 ---
 ### Connect with me:
