@@ -1,7 +1,7 @@
 ### Hi there👋
 
 
-## I'm so much in 💙 wih backend development
+## I'm so much in 💙 with backend development
 
 
 - 💻 Software Engineer
