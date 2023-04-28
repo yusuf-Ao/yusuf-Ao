@@ -20,5 +20,4 @@
 
 
 
-[instagram]: https://instagram.com/ay.codes
-
+[linkedin]: www.linkedin.com/in/i-am-yusuf-ahmed/
