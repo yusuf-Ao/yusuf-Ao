@@ -12,7 +12,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="ay.codes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="i-am-yusuf-ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
 
 <br />
